@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **deebaulo@gmail.com**
+- 📫 How to reach me **hello@diyanarahbaulo.com**
 
 - ⚡ Fun fact **I don't know how to cook but I know how to code.**
 
