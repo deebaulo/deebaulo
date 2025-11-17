@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **JS/ReactJS/AngularJS/TailWindCSS**
 
-- 👨‍💻 All of my projects are available at [https://deebaulo.com](https://deebaulo.com)
+- 👨‍💻 All of my projects are available at [https://diyanarahbaulo.com](https://diyanarahbaulo.com)
 
 - 💬 Ask me about **Web Development**
 
